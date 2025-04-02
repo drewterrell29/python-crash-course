@@ -36,10 +36,10 @@ def read_csv_to_dict_of_lists():
 
 
             # print(headings) # You can still print headings if needed
-            print("\nResulting Dictionary (Dict of Lists):")
-            # Print nicely for verification
-            for key, value in mydict.items():
-                 print(f"- {key}: {value}")
+            # print("\nResulting Dictionary (Dict of Lists):")
+            # # Print nicely for verification
+            # for key, value in mydict.items():
+            #      print(f"- {key}: {value}")
             return mydict # Return the dictionary
 
     except FileNotFoundError:
