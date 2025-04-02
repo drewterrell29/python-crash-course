@@ -1,0 +1,15 @@
+ProductID,ProductName,Category,Price,StockLevel
+P101,Laptop Pro,Electronics,1299.99,55
+P102,Office Chair,Furniture,185.50,120
+P103,Wireless Mouse,Electronics,25.00,
+P104,Notebook Basic,Stationery,2.99,500
+P105,Standing Desk,Furniture,399.90,30
+P106,Keyboard Elite,Electronics,75.75,80
+P107,Desk Lamp,Furniture,45.00,95
+P108,Pen Pack (Blue),Stationery,5.50,
+P109,"Monitor, 27 inch",Electronics,279.99,40
+P110,Ergonomic Footrest,Furniture,62.00, 75 
+P111,USB-C Hub,Electronics,35.50,150
+P112,Sticky Notes (Yellow),Stationery,1.75,1000
+P113,Bookshelf (Oak),Furniture,150.00,25
+P114,Webcam HD,Electronics,59.95,60
